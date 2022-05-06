@@ -1,0 +1,38 @@
+body {
+  font-size: 3rem;
+  Font-family: 'Arial';
+  text-align: center;
+  background-color: #ccc;
+  margin: 0 auto;
+  align-items: center;
+  height: 100vh;
+  width: 100wh;
+}
+h1{
+  color: red;
+}
+.title{
+  font-size: 6rem;
+  color: red;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  
+}
+.timer {
+  display: flex;
+}
+
+.timer__block{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  box-shadox: 2px gray solid;
+  align-items: center;
+  
+}
+span{
+  font-size: 6rem;
+}
+

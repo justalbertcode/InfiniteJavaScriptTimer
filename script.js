@@ -1,3 +1,4 @@
+//variables for timer
 let year = 2021;
 const month = 12;
 const day = 31;
